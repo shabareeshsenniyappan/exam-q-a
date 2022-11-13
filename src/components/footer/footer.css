@@ -1,0 +1,23 @@
+.footer-container {
+  background-color: rgba(241, 241, 241, 0.808);
+  padding: 25px;
+  border: 1px solid rgb(184, 182, 182);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.but-res {
+  padding: 8px 16px;
+  color: white;
+  font-size: large;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+.answer-nxt-button {
+  background-color: red;
+}
+
+.answer-prev-button {
+  background-color: green;
+}

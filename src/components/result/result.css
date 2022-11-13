@@ -1,0 +1,16 @@
+.question-cont {
+  text-align: left;
+  font-size: large;
+  font-weight: 500;
+  margin-bottom: 2vw;
+}
+.ans-cont {
+  margin-left: 8vw;
+  margin-bottom: 4vw;
+}
+.res-cont {
+  width: 80%;
+  margin: 10vh auto;
+  border: 2px solid black;
+  padding: 20px;
+}

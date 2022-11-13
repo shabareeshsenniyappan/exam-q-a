@@ -1,0 +1,8 @@
+.head-container {
+  background-color: rgba(241, 241, 241, 0.808);
+  padding: 15px;
+  border-bottom: 1px solid grey;
+}
+.arrow {
+  cursor: pointer;
+}
